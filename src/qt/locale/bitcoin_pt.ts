@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt-br">
+<TS version="2.0" language="pt">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>AboutDialog</name>
@@ -16,8 +16,8 @@
     </message>
     <message>
         <location line="+41"/>
-        <source>Copyright © 2014-2016 The Verge developers</source>
-        <translation>Copyright © 2014-2016 The Verge developers</translation>
+        <source>Copyright © 2014-2018 The Verge developers</source>
+        <translation>Copyright © 2014-2018 Os programadores Verge</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -30,7 +30,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>
 Este software é experimental.
 
-Distribuído sob a licença de software MIT/X11, veja o arquivo COPYING ou http://www.opensource.org/licenses/mit-license.php.
+Distribuído sob a licença de software MIT/X11. Consulte o ficheiro anexo COPYING ou visite http://www.opensource.org/licenses/mit-license.php.
 
 Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no OpenSSL Toolkit (http://www.openssl.org/) e software criptográfico escrito por Eric Young (eay@cryptsoft.com) e software UPnP escrito por Thomas Bernard.</translation>
     </message>
@@ -40,7 +40,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation>Livro de endereços</translation>
+        <translation>Livro de Endereços</translation>
     </message>
     <message>
         <location line="+22"/>
