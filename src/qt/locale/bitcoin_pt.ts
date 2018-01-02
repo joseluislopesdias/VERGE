@@ -32,7 +32,7 @@ Este software é experimental.
 
 Distribuído sob a licença de software MIT/X11. Consulte o ficheiro anexo COPYING ou visite http://www.opensource.org/licenses/mit-license.php.
 
-Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no OpenSSL Toolkit (http://www.openssl.org/) e software criptográfico escrito por Eric Young (eay@cryptsoft.com) e software UPnP escrito por Thomas Bernard.</translation>
+Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no OpenSSL Toolkit (http://www.openssl.org/) e software criptográfico escrito por Eric Young (eay@cryptsoft.com) e, ainda, software UPnP escrito por Thomas Bernard.</translation>
     </message>
 </context>
 <context>
@@ -45,7 +45,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+22"/>
         <source>Double-click to edit address or label</source>
-        <translation>Clique duplo para editar o endereço ou o rótulo</translation>
+        <translation>Duplo clique para editar o endereço ou o rótulo</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -55,42 +55,42 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation>Copiar o endereço selecionado para o clipboard</translation>
+        <translation>Copiar o endereço selecionado para a área de transferência (clipboard)</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation>&amp;Novo endereço</translation>
+        <translation>&amp;Novo Endereço</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>These are your VERGE addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estes são seus endereços VERGE para receber pagamentos. Você pode preferir fornecer um endereço diferente para cada remetente, para que você saiba quem está te pagando.</translation>
+        <translation>Estes são os seus endereços VERGE para receber pagamentos. Poderá fornecer um endereço diferente para cada remetente, para que saiba quem lhe pagou.</translation>
     </message>
     <message>
         <location line="+60"/>
         <source>&amp;Copy Address</source>
-        <translation>&amp;Copiar endereço</translation>
+        <translation>&amp;Copiar Endereço</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation>Mostrar &amp;QR Code</translation>
+        <translation>Mostrar &amp;Código QR</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a VERGE address</source>
-        <translation>Escreva uma mensagem para provar que você é dono deste endereço VERGE</translation>
+        <translation>Assine uma mensagem para provar que é dono de um endereço VERGE</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation>Escreva a mensagem</translation>
+        <translation>Assinar &amp;Messagem</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation>Deletar o endereço selecionado da lista</translation>
+        <translation>Apagar da lista o endereço selecionado</translation>
     </message>
     <message>
         <location line="-14"/>
@@ -100,17 +100,17 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verifique a mensagem</translation>
+        <translation>&amp;Verificar Mensagem</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation>&amp;Excluir</translation>
+        <translation>&amp;Apagar</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+65"/>
         <source>Copy &amp;Label</source>
-        <translation>Copiar &amp;rótulo</translation>
+        <translation>Copiar &amp;Rótulo</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -120,12 +120,12 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+250"/>
         <source>Export Address Book Data</source>
-        <translation>Exportar dados do livro de endereços</translation>
+        <translation>Exportar dados do Livro de Endereços</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation>Arquivo separado por vírgulas (*.csv)</translation>
+        <translation>Ficheiro separado por vírgulas (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -135,7 +135,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation>Não foi possível salvar no arquivo %1.</translation>
+        <translation>Não foi possível gravar no ficheiro %1.</translation>
     </message>
 </context>
 <context>
@@ -161,27 +161,27 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation>Campo de senha</translation>
+        <translation>Campo de palavra-chave</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation>Digite a senha</translation>
+        <translation>Introduza a palavra-chave</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation>Nova senha</translation>
+        <translation>Nova palavra-chave</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation>Repita a nova senha</translation>
+        <translation>Repita a nova palavra-chave</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Digite a nova senha da carteira.&lt;br/&gt;Por favor, utilize uma senha de  &lt;b&gt;10 ou mais caracteres aleatórios&lt;/b&gt;, ou &lt;b&gt;oito ou mais palavras&lt;/b&gt;.</translation>
+        <translation>Introduza a nova palvra-chave da carteira.&lt;br/&gt;Por favor, utilize uma palavra-chave de &lt;b&gt;10 ou mais carateres aleatórios&lt;/b&gt;, ou &lt;b&gt;oito ou mais palavras&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -191,47 +191,47 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Esta operação necessita de sua senha para destravar a carteira.</translation>
+        <translation>Esta operação necessita da sua palavra-chave para desbloquear a carteira.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Destravar carteira</translation>
+        <translation>Desbloquear carteira</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Esta operação necessita da sua senha para decriptar a carteira.</translation>
+        <translation>Esta operação necessita da sua palavra-chave para desencriptar a carteira.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>Decriptar carteira</translation>
+        <translation>desencriptar carteira</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation>Mudar senha</translation>
+        <translation>Mudar palavra-chave</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Digite a senha antiga e a nova senha da carteira.</translation>
+        <translation>Digite a palavra-chave antiga e a nova palavra-chave da carteira.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation>Confirmar criptografia da carteira</translation>
+        <translation>Confirmar encriptação da carteira</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</translation>
+        <translation>Aviso: Se encriptar a carteira e perder a palavra-chave, &lt;b&gt;PERDERÁ, IRREMEDIAVELMENTE, TODOS AS SUAS MOEDAS&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Tem certeza que desenha criptografar sua carteira?</translation>
+        <translation>Tem a certeza que pretende encriptar a sua carteira?</translation>
     </message>
     <message>
         <location line="+15"/>
