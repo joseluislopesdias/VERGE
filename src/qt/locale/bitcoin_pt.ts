@@ -7,17 +7,17 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About VERGE</source>
-        <translation>About VERGE</translation>
+        <translation>Sobre VERGE</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;VERGE&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;VERGE&lt;/b&gt; version</translation>
+        <translation>&lt;b&gt;VERGE&lt;/b&gt; versão</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2014-2016 The Verge developers</source>
-        <translation>Copyright © 2014-2016 The Verge developers</translation>
+        <translation>Copyright © 2014-2016 Os programadores Verge</translation>
     </message>
     <message>
         <location line="+13"/>
