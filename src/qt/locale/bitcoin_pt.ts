@@ -186,7 +186,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation>Encriptar carteira</translation>
+        <translation>Encriptar a carteira</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -196,7 +196,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation>Desbloquear carteira</translation>
+        <translation>Desbloquear a carteira</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -206,7 +206,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation>desencriptar carteira</translation>
+        <translation>Desencriptar a carteira</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -236,24 +236,24 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation>IMPORTANTE: Qualquer backup anterior que você tenha feito da sua carteira será substituído com o novo arquivo da carteira criptografada. Por razões de segurança backups ateriores da carteira não criptografada tornarão-se inúteis assim que você começar a utilizar a nova carteira criptografada.</translation>
+        <translation>IMPORTANTE: Qualquer cópia de segurança anterior que tenha feito da sua carteira deverá ser substituída pela nova cópia de segurança da carteira encriptada. Por razões de segurança, as cópias de segurança ateriores, da carteira não encriptada, tornar-se-ão inúteis assim que começar a utilizar a nova carteira encriptada.</translation>
     </message>
     <message>
         <location line="+100"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Aviso: A tecla Caps Lock está acionada!</translation>
+        <translation>Aviso: A tecla caps lock está ativada!</translation>
     </message>
     <message>
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation>Carteira criptografada</translation>
+        <translation>Carteira encriptada</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>VERGE will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>VERGE irá fechar agora para finalizar o processo de criptografia. Lembre-se que criptografar sua carteira não pode proteger totalmente suas moedas de serem roubadas por malwares que estejam infectando seu computador.</translation>
+        <translation>A Carteira VERGE vai fechar agora para finalizar o processo de encriptação. Lembre-se que encriptar a sua carteira pode não proteger totalmente as suas moedas de serem roubadas por malwares que infetem o seu computador.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -261,40 +261,40 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
         <location line="+42"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation>Criptografia da carteira falhou</translation>
+        <translation>A encriptação da carteira falhou</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation>Criptografia da carteira falhou devido a um erro intero. Sua carteira não foi criptografada.</translation>
+        <translation>A encriptação da carteira falhou devido a um erro interno. A carteira não foi encriptada.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation>As senhas fornecidas não são correspondentes.</translation>
+        <translation>As palavras-chave fornecidas não são idênticas.</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>Wallet unlock failed</source>
-        <translation>Falha ao destravar a carteira</translation>
+        <translation>Falha ao desbloquear a carteira</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+11"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>A senha fornecida para desencriptar a carteira está incorreta.</translation>
+        <translation>A palavra-chave fornecida para desencriptar a carteira está incorreta.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation>Descriptografia da carteira falhou</translation>
+        <translation>A desencriptação da carteira falhou</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>A senha da carteira foi mudada com sucesso.</translation>
+        <translation>A palavra-chave da carteira foi alterada com sucesso.</translation>
     </message>
 </context>
 <context>
@@ -307,7 +307,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+237"/>
         <source>Synchronizing with network...</source>
-        <translation>Sincronizando com a rede...</translation>
+        <translation>A sincronizar com a rede...</translation>
     </message>
     <message>
         <location line="-299"/>
@@ -327,7 +327,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation>Navegar pelo histórico de transações</translation>
+        <translation>Explorar o histórico de transações</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -387,30 +387,27 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+4"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation>&amp;Criptografar carteira...</translation>
+        <translation>&amp;Encriptar a carteira...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation>&amp;Fazer backup da carteira...</translation>
+        <translation>&amp;Criar cópia de segurança da carteira...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation>&amp;Mudar senha...</translation>
+        <translation>&amp;Mudar a palavra-chave...</translation>
     </message>
     <message numerus="yes">
         <location line="+241"/>
         <source>~%n block(s) remaining</source>
-        <translation>
-            <numerusform>~%n bloco restantes</numerusform>
-            <numerusform>~%n blocos restantes</numerusform>
-        </translation>
+        <translation>~%n bloco(s) restante(s)</numerusform></translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Downloaded %1 of %2 blocks of transaction history (%3% done).</source>
-        <translation>Baixados %1 de %2 blocos do histório de transações (%3% finalizados).</translation>
+        <translation>Descarregados %1 de %2 blocos do histório de transações (%3% finalizado).</translation>
     </message>
     <message>
         <location line="-242"/>
@@ -425,37 +422,37 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+45"/>
         <source>Modify configuration options for VERGE</source>
-        <translation>Modificar opções de configuração para VERGE</translation>
+        <translation>Alterar definições</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Export the data in the current tab to a file</source>
-        <translation>Exportar dados da aba atual para um arquivo</translation>
+        <translation>Exportar dados do separador atual para um ficheiro</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Encrypt or decrypt wallet</source>
-        <translation>Criptografar ou descriptografar carteira</translation>
+        <translation>Encriptar ou desencriptar carteira</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup wallet to another location</source>
-        <translation>Fazer backup da carteira para outro local</translation>
+        <translation>Fazer cópia de segurança da carteira para outro local</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Mudar a senha usada para criptografia da carteira</translation>
+        <translation>Mudar a palavra-chave usada para a encriptação da carteira</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Debug window</source>
-        <translation>&amp;Depurar janela</translation>
+        <translation>&amp;Janela de depuração</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation>Abrir console de depuração e diagnóstico</translation>
+        <translation>Abrir consola de depuração e diagnóstico</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -485,12 +482,12 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+39"/>
         <source>&amp;File</source>
-        <translation>&amp;Arquivo</translation>
+        <translation>&amp;Ficheiro</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>&amp;Settings</source>
-        <translation>&amp;Configurações</translation>
+        <translation>&amp;Definições</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -500,7 +497,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation>Barra de ferramentas de abas</translation>
+        <translation>Barra de ferramentas dos separadores</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -523,14 +520,14 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
         <location line="+69"/>
         <source>%n active connection(s) to VERGE network</source>
         <translation>
-            <numerusform>%n conexão ativa com a rede VERGE</numerusform>
-            <numerusform>%n conexões ativas com a rede VERGE</numerusform>
+            <numerusform>%n ligação ativa com a rede VERGE</numerusform>
+            <numerusform>%n ligações ativas com a rede VERGE</numerusform>
         </translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Downloaded %1 blocks of transaction history.</source>
-        <translation>Baixados %1 blocos do histórico de transações.</translation>
+        <translation>Descarregados %1 blocos do histórico de transações.</translation>
     </message>
     <message numerus="yes">
         <location line="+22"/>
@@ -572,7 +569,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+7"/>
         <source>Catching up...</source>
-        <translation>Alcançando...</translation>
+        <translation>A completar...</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -582,7 +579,7 @@ Este produto inclui software desenvolvido pelo Projeto OpenSSL, para uso no Open
     <message>
         <location line="+59"/>
         <source>This transaction is over the size limit.  You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network.  Do you want to pay the fee?</source>
-        <translation>Esta transação está acima do limite de tamanho. Você ainda pode enviá-la por uma taxa de %1, que vai para os nós que processam sua transação e ajudam a sustentar a rede. Você gostaria de pagar a taxa?</translation>
+        <translation>Esta transação está acima do limite de tamanho. Ainda pode enviá-la por uma taxa de %1, que vai para os nós que processam a transação e ajudam a sustentar a rede. Gostaria de pagar esta a taxa?</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -622,22 +619,22 @@ Endereço: %4
         <location line="-15"/>
         <location line="+15"/>
         <source>URI can not be parsed! This can be caused by an invalid VERGE address or malformed URI parameters.</source>
-        <translation>O URI não pôde ser analisado! Isto pode ser causado por um endereço VERGE inválido ou parâmetros de URI malformados.</translation>
+        <translation>Não foi possível analisar o URI! Possivelmente trata-se de um endereço VERGE inválido ou problemas nos parâmetros do URI.</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation>A carteira está &lt;b&gt;criptografada&lt;/b&gt; e no momento &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
+        <translation>A carteira está &lt;b&gt;encriptada&lt;/b&gt; e, neste momento &lt;b&gt;desbloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation>A carteira está &lt;b&gt;criptografada&lt;/b&gt; e no momento &lt;b&gt;bloqueada&lt;/b&gt;</translation>
+        <translation>A carteira está &lt;b&gt;encriptada&lt;/b&gt; e, neste momento, &lt;b&gt;bloqueada&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Backup Wallet</source>
-        <translation>Fazer backup da carteira</translation>
+        <translation>Fazer cópia de segurança da carteira</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -647,17 +644,17 @@ Endereço: %4
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation>O backup falhou</translation>
+        <translation>A cópia de segurança falhou</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation>Houve um erro ao tentar salvar os dados da carteira no novo local.</translation>
+        <translation>Houve um erro ao tentar gravar os dados da carteira no novo destino.</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
         <source>A fatal error occurred. VERGE can no longer continue safely and will quit.</source>
-        <translation>Um erro fatal ocorreu. A VERGE não pode mais continuar de maneira segura e irá finalizar.</translation>
+        <translation>Ocorreu um erro fatal. A VERGE não pode continuar de forma segura e terá de encerrar.</translation>
     </message>
 </context>
 <context>
@@ -665,7 +662,7 @@ Endereço: %4
     <message>
         <location filename="../clientmodel.cpp" line="+87"/>
         <source>Network Alert</source>
-        <translation>Alerta de rede</translation>
+        <translation>Alerta de Rede</translation>
     </message>
 </context>
 <context>
@@ -683,7 +680,7 @@ Endereço: %4
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation>O rótulo associado com este registro do livro de endereços</translation>
+        <translation>O rótulo associado a este registo do livro de endereços</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -693,7 +690,7 @@ Endereço: %4
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation>O endereço associado com este registro do livro de endereços. Isto pode ser modificado apenas para endereços de envio.</translation>
+        <translation>O endereço associado com este registo do livro de endereços. Isto pode ser alterado apenas para endereços de envio.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+20"/>
@@ -718,7 +715,7 @@ Endereço: %4
     <message>
         <location line="+60"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation>O endereço fornecido &quot;%1&quot; já está registrado no livro de endereços.</translation>
+        <translation>O endereço fornecido &quot;%1&quot; já está registado no livro de endereços.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -728,7 +725,7 @@ Endereço: %4
     <message>
         <location line="+5"/>
         <source>Could not unlock wallet.</source>
-        <translation>Não foi possível destravar a carteira.</translation>
+        <translation>Não foi possível desbloquear a carteira.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -762,12 +759,12 @@ Endereço: %4
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation>opções de UI</translation>
+        <translation>opções da interface</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation>Mudar idioma, por exemplo &quot;de_DE&quot; (padrão: idioma do sistema)</translation>
+        <translation>definir idioma, por exemplo &quot;de_DE&quot; (padrão: idioma do sistema)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -777,7 +774,7 @@ Endereço: %4
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation>Mostrar splash screen ao inicializar (padrão: 1)</translation>
+        <translation>Mostrar imagem inicial ao iniciar (padrão: 1)</translation>
     </message>
 </context>
 <context>
@@ -795,7 +792,7 @@ Endereço: %4
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB. Fee 0.01 recommended.</source>
-        <translation>Taxa de transação opcional por kB que ajuda a garantir que suas transações sejam processadas rapidamente. A maioria das transações possui 1 kB. É recomandada uma taxa de 0.01.</translation>
+        <translation>Taxa opcional de transação por kB, que ajuda a garantir que as transações sejam processadas rapidamente. A maioria das transações possui 1 kB. É recomandada uma taxa de 0.01.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -815,12 +812,12 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Detach block and address databases at shutdown. This means they can be moved to another data directory, but it slows down shutdown. The wallet is always detached.</source>
-        <translation>Desanexar dados de blocos e endereços ao desligar. Isto significa que eles podem ser movidos para outro diretório de dados, mas deixa o desligamento mais devagar. A carteira é sempre desanexada.</translation>
+        <translation>Desanexar bases de dados de blocos e endereços ao desligar. Isto significa que eles podem ser movidos para outro diretório de dados, mas deixa o desligamento mais lento. A carteira é sempre desanexada.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Detach databases at shutdown</source>
-        <translation>&amp;Desanexar bancos de dados ao desligar</translation>
+        <translation>&amp;Desanexar bases de dados ao desligar</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -830,7 +827,7 @@ Endereço: %4
     <message>
         <location line="+6"/>
         <source>Automatically open the VERGE client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente VERGE no roteador. Isto funciona desde que seu roteador suporte UPnP e esteja habilitado.</translation>
+        <translation>Abrir automaticamente a porta do cliente VERGE no roteador. Isto funciona desde que o seu roteador suporte UPnP e o mesmo esteja ativado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -840,12 +837,12 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Connect to the VERGE network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conectar à rede VERGE através de um proxy SOCKS (p.e. como quando conectado através do Tor).</translation>
+        <translation>Ligar à rede VERGE através de um proxy SOCKS (p.e. aquando ligação através do Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation>&amp;Conectar através de um proxy SOCKS:</translation>
+        <translation>&amp;Ligar através de um proxy SOCKS:</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -885,17 +882,17 @@ Endereço: %4
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation>Mostrar apenas um ícone na bandeja após minimizar a janela.</translation>
+        <translation>Mostrar apenas um ícone na área de notificação após minimizar a janela.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation>&amp;Minimizar para a bandeja ao invés de minimizar para a barra de tarefas</translation>
+        <translation>&amp;Minimizar para a área de notificação ao invés de minimizar para a barra de tarefas</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimizar ao invés de sair da aplicação quando a janela for fechada. Quando esta opção está habilitada, a aplicação será fechada apóis selecionar Sair no menu.</translation>
+        <translation>Minimizar ao invés de sair da aplicação quando a janela for fechada. Quando esta opção está ativada, a aplicação será fechada após selecionar Sair no menu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -905,17 +902,17 @@ Endereço: %4
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation>&amp;Tela</translation>
+        <translation>&amp;Ecrã</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation>&amp;Idioma da interface de usuário:</translation>
+        <translation>&amp;Idioma da interface do utilizador:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting VERGE.</source>
-        <translation>O idioma da interface de usuário pode ser modificado aqui. Esta modificação terá efeito após reiniciar a VERGE.</translation>
+        <translation>O idioma da interface do utilizador pode ser modificado aqui. Esta modificação produzirá efeitos após reiniciar a VERGE.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -967,7 +964,7 @@ Endereço: %4
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting VERGE.</source>
-        <translation>Esta modificação terá efeito após reiniciar a VERGE.</translation>
+        <translation>Esta modificação produzirá efeitos após reiniciar a VERGE.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -986,17 +983,17 @@ Endereço: %4
         <location line="+33"/>
         <location line="+183"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the VERGE network after a connection is established, but this process has not completed yet.</source>
-        <translation>A formação mostrada pode estar desatualizada. Sua carteira sincroniza automaticamente com a rede VERGE epois que a conexão é estabelecida, mas este processo ainda não está completo.</translation>
+        <translation>A informação fornecida pode estar desatualizada. A sua carteira sincroniza automaticamente com a rede VERGE após a ligação ser estabelecida, mas este processo ainda não está completo.</translation>
     </message>
     <message>
         <location line="-141"/>
         <source>Balance:</source>
-        <translation>Balanço:</translation>
+        <translation>Saldo:</translation>
     </message>
     <message>
         <location line="+118"/>
         <source>Stake:</source>
-        <translation>Acúmulo:</translation>
+        <translation>Acumulação:</translation>
     </message>
     <message>
         <location line="+58"/>
@@ -1006,7 +1003,7 @@ Endereço: %4
     <message>
         <location line="-29"/>
         <source>Unconfirmed:</source>
-        <translation>Não confirmadas:</translation>
+        <translation>Por confirmar:</translation>
     </message>
     <message>
         <location line="-78"/>
@@ -1021,7 +1018,7 @@ Endereço: %4
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation>Balanço minerado ainda sem maturar</translation>
+        <translation>Saldo minerado que ainda não maturou</translation>
     </message>
     <message>
         <location line="+46"/>
@@ -1031,28 +1028,28 @@ Endereço: %4
     <message>
         <location line="-118"/>
         <source>Your current balance</source>
-        <translation>Seu balanço atual</translation>
+        <translation>Saldo atual</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the current balance</source>
-        <translation>Total de transações ainda não confirmadas, e que ainda não contam no balanço atual</translation>
+        <translation>Saldo por confirmar</translation>
     </message>
     <message>
         <location line="+134"/>
         <source>Total of coins that was staked, and do not yet count toward the current balance</source>
-        <translation>Total de moedas que estavam acumuladas, e que ainda não contam no balanço atual</translation>
+        <translation>Total de moedas acumuladas que ainda não constam no saldo atual</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Total number of transactions in wallet</source>
-        <translation>Número total de transações na carteira</translation>
+        <translation>Número total de transações realizadas na carteira</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+112"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation>Desincronizado</translation>
+        <translation>Dessincronizado</translation>
     </message>
 </context>
 <context>
@@ -1065,7 +1062,7 @@ Endereço: %4
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation>Pagamento requerido</translation>
+        <translation>Solicitar Pagamento</translation>
     </message>
     <message>
         <location line="+56"/>
@@ -1085,7 +1082,7 @@ Endereço: %4
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation>&amp;Salvar como...</translation>
+        <translation>&amp;Gravar como...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+62"/>
@@ -1095,17 +1092,17 @@ Endereço: %4
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation>A quantidade inserida é inválida. Por favor, verifique.</translation>
+        <translation>A quantidade definida é inválida. Verifique, por favor.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation>URI resultante é muito longo. Tente reduzar o texto do rótulo  / mensagem.</translation>
+        <translation>O URI resultante é muito longo. Tente reduzir o texto do rótulo / mensagem.</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation>Salvar QR Code</translation>
+        <translation>Gravar Código QR</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1118,7 +1115,7 @@ Endereço: %4
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation>Nome do cliente</translation>
+        <translation>Nome do Cliente</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1132,7 +1129,7 @@ Endereço: %4
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+348"/>
         <source>N/A</source>
-        <translation>N/A</translation>
+        <translation>N/D</translation>
     </message>
     <message>
         <location line="-217"/>
@@ -1147,7 +1144,7 @@ Endereço: %4
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation>Usando versão do OpenSSL</translation>
+        <translation>A utilizar versão do OpenSSL</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -1162,7 +1159,7 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation>Número de conexões</translation>
+        <translation>Número de ligações</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1172,7 +1169,7 @@ Endereço: %4
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>Block chain</translation>
+        <translation>Cadeia de Blocos</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1182,7 +1179,7 @@ Endereço: %4
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>Total de blocos estimados</translation>
+        <translation>Blocos totais estimados</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1197,12 +1194,12 @@ Endereço: %4
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation>Opções de linha de comando</translation>
+        <translation>Opções da linha de comando</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the VERGE-Qt help message to get a list with possible VERGE command-line options.</source>
-        <translation>Mostrar a mensagem da VERGE-Qt para obter a lista de possíveis opções de linha de comando da VERGE.</translation>
+        <translation>Mostrar a mensagem da VERGE-Qt para obter a lista de possíveis opções da linha de comando da VERGE.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1212,12 +1209,12 @@ Endereço: %4
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation>&amp;Console</translation>
+        <translation>&amp;Consola</translation>
     </message>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation>Data da build</translation>
+        <translation>Data da compilação</translation>
     </message>
     <message>
         <location line="-104"/>
@@ -1232,27 +1229,27 @@ Endereço: %4
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation>Depurar arquivo de registros</translation>
+        <translation>Depurar ficheiro de registos</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Open the VERGE debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir o arquivo de registros de depuração do diretório de dados atual. Isto pode demorar alguns segundos para arquivos grandes.</translation>
+        <translation>Abrir o ficheiro de registos de depuração a partir do diretório de dados atual. Isto pode demorar alguns segundos para ficheiros grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation>Limpar console</translation>
+        <translation>Limpar a consola</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
         <source>Welcome to the VERGE RPC console.</source>
-        <translation>Bem-vindo ao conspole RPC da VERGE</translation>
+        <translation>Bem-vindo à consola RPC da VERGE</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Use as setas para cima e para baixo para navegar no histórico e  &lt;b&gt;Ctrl-L&lt;/b&gt; para limpar a tela.</translation>
+        <translation>Utilize as setas para cima e para baixo para navegar no histórico e &lt;b&gt;Ctrl-L&lt;/b&gt; para limpar o ecrã.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1272,32 +1269,32 @@ Endereço: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Coins</translation>
+        <translation>Enviar Moedas</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Send to multiple recipients at once</source>
-        <translation>Send to multiple recipients at once</translation>
+        <translation>Enviar para múltiplos destinatários de uma só vez</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar &amp;Destinatário</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation>Remove all transaction fields</translation>
+        <translation>Remover todos os campos de transação</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation>Clear &amp;All</translation>
+        <translation>Limpar &amp;tudo</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation>Balance:</translation>
+        <translation>Saldo:</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1307,67 +1304,67 @@ Endereço: %4
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation>Confirm the send action</translation>
+        <translation>Confirmar envio</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation type="unfinished"></translation>
+        <translation>S&amp;fim</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-59"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; para %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Confirm send coins</translation>
+        <translation>Confirmar envio de moedas</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation>Are you sure you want to send %1?</translation>
+        <translation>Tem a certeza que pretende enviar %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation> and </translation>
+        <translation> e </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>The recipient address is not valid, please recheck.</translation>
+        <translation>O endereço do destinatário não é válido, verifique novamente.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation>The amount to pay must be larger than 0.</translation>
+        <translation>O valor a pagar deve ser maior do que 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation>The amount exceeds your balance.</translation>
+        <translation>A quantia excede o seu saldo.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation>The total exceeds your balance when the %1 transaction fee is included.</translation>
+        <translation>O total excede o seu saldo quando incluída a taxa de transação% 1.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation>Duplicate address found, can only send to each address once per send operation.</translation>
+        <translation>Foi encontrado um endereço duplicado. Só pode enviar para cada endereço uma vez por operação de envio.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed.</source>
-        <translation>Error: Transaction creation failed.</translation>
+        <translation>Erro: a criação da transação falhou.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</translation>
+        <translation>Erro: a transação foi rejeitada. Isso pode acontecer se algumas das moedas da sua carteira já haviam sido gastas, como se usasse uma cópia de wallet.dat e as moedas tenhasm sido gastas na cópia, mas não marcadas como gastadas aqui.</translation>
     </message>
 </context>
 <context>
@@ -1375,38 +1372,38 @@ Endereço: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation>Form</translation>
+        <translation>Formulário</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation>A&amp;mount:</translation>
+        <translation>Q&amp;uantia:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation>Pay &amp;To:</translation>
+        <translation>Pagar &amp;a:</translation>
     </message>
     <message>
         <location line="+24"/>
         <location filename="../sendcoinsentry.cpp" line="+25"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation>Enter a label for this address to add it to your address book</translation>
+        <translation>Digite um rótulo para este endereço para adicioná-lo ao seu catálogo de endereços</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Label:</source>
-        <translation>&amp;Label:</translation>
+        <translation>&amp;Rótulo:</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
-        <translation type="unfinished"></translation>
+        <source>The address to send the payment to (e.g. 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</source>
+        <translation>O endereço para enviar o pagamento (por exemplo, 4Zo1ga6xuKuQ7JV7M9rGDoxdbYwV5zgQJ5)</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Choose address from address book</source>
-        <translation>Choose address from address book</translation>
+        <translation>Escolha um endereço do livro de endereços</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1416,7 +1413,7 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation>Paste address from clipboard</translation>
+        <translation>Colar endereço da área de transferência</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1426,12 +1423,12 @@ Endereço: %4
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation>Remove this recipient</translation>
+        <translation>Remover este destinatário</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a valid VERGE address</source>
-        <translation>Enter a valid VERGE address </translation>
+        <translation>Introduza um endereço VERGE válido</translation>
     </message>
 </context>
 <context>
@@ -1439,29 +1436,29 @@ Endereço: %4
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation>Signatures - Sign / Verify a Message</translation>
+        <translation>Assinaturas - Assinar / Verificar a Mensagem</translation>
     </message>
     <message>
         <location line="+13"/>
         <location line="+124"/>
         <source>&amp;Sign Message</source>
-        <translation>&amp;Sign Message</translation>
+        <translation>&amp;Assinar Mensagem</translation>
     </message>
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
+        <translation>Pode assinar mensagens com os seus endereços para provar que é dono deles. Tenha cuidado para não assinar qualquer coisa vaga, pois ataques de phishing podem tentar enganá-lo e assinar a sua identidade em proveito de outrém. Apenas assine declarações completamente detalhadas e com as quais concorda.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with </source>
-        <translation>The address to sign the message with </translation>
+        <source>The address to sign the message with</source>
+        <translation>Endereço para assinar a mensagem</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+203"/>
         <source>Choose an address from the address book</source>
-        <translation>Choose an address from the address book</translation>
+        <translation>Escolha um endereço do livro de endereços</translation>
     </message>
     <message>
         <location line="-193"/>
@@ -1472,7 +1469,7 @@ Endereço: %4
     <message>
         <location line="-193"/>
         <source>Paste address from clipboard</source>
-        <translation>Paste address from clipboard</translation>
+        <translation>Colar endereço da área de transferência</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1482,34 +1479,34 @@ Endereço: %4
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation>Enter the message you want to sign here</translation>
+        <translation>Digite aqui a mensagem que pretende assinar</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation>Copy the current signature to the system clipboard</translation>
+        <translation>Copiar a assinatura atual para a área de transferência</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this VERGE address</source>
-        <translation>Sign the message to prove you own this VERGE address</translation>
+        <translation>Assine a mensagem para provar que é o proprietário deste endereço VERGE</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Reset all sign message fields</source>
-        <translation>Reset all sign message fields</translation>
+        <translation>Repor todos campos da mensagem assinada</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation>Clear &amp;All</translation>
+        <translation>Limpar &amp;tudo</translation>
     </message>
     <message>
         <location line="-87"/>
         <location line="+70"/>
         <source>&amp;Verify Message</source>
-        <translation>&amp;Verify Message</translation>
+        <translation>&amp;Verificar Mensagem</translation>
     </message>
     <message>
         <location line="-64"/>
@@ -2306,242 +2303,242 @@ Endereço: %4
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong VERGE will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong VERGE will not work properly.</translation>
+        <translation>Aviso: Please check that your computer&apos;s date and time are correct! If your clock is wrong VERGE will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</translation>
+        <translation>Aviso: erro na leitura do ficheiro wallet.dat! Todas as chaves foram lidas corretamente, mas os dados das transações ou as entradas do livro endereços podem estar incorretas ou em fala.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</translation>
+        <translation>Aviso: o ficheiro wallet.dat está corrompido! Ficheiro original wallet.dat gravado como wallet.{timestamp}.bak em %s; Se o seu saldo ou transações estiverem incorretas, deverá restaurar a partir de uma cópia de segurança.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation>Attempt to recover private keys from a corrupt wallet.dat</translation>
+        <translation>Tentar recuperar as chaves privadas de um ficheiro wallet.dat corrompido</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Block creation options:</source>
-        <translation>Block creation options:</translation>
+        <translation>Opções de criação de blocos:</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Connect only to the specified node(s)</source>
-        <translation>Connect only to the specified node(s)</translation>
+        <translation>Ligar apenas ao(s) nó(s) definido</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation>Discover own IP address (default: 1 when listening and no -externalip)</translation>
+        <translation>Descobrir o próprio endereço IP (padrão: 1 em escuta e sem -externalip)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation>Failed to listen on any port. Use -listen=0 if you want this.</translation>
+        <translation>Não é possível escutar qualquer porta. Utilize -listen=0 caso pretenda.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Find peers using DNS lookup (default: 0)</source>
-        <translation>Find peers using DNS lookup (default: 0)</translation>
+        <translation>Encontrar pares utilizando a pesquisa de DNS (padrão: 0)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation>Invalid -tor address: &apos;%s&apos;</translation>
+        <translation>Endereço -tor inválido: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</translation>
+        <translation>Buffer máximo de receção por ligação, &lt;n&gt;*1000 bytes (padrão: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</translation>
+        <translation>Buffer máximo de envio por ligação, &lt;n&gt;*1000 bytes (padrão: 1000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</translation>
+        <translation>Ligar apenas ao nós na rede &lt;net&gt; (IPv4, IPv6 ou Tor)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Output extra debugging information. Implies all other -debug* options</translation>
+        <translation>Recolher informações adicionais de depuração. Implica todas as restantes opções de -debug*</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation>Output extra network debugging information</translation>
+        <translation>Recolher informações adicionais de depuração da rede</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Prepend debug output with timestamp</source>
-        <translation>Prepend debug output with timestamp</translation>
+        <translation>Acrescentar uma marca temporal ao resultado da depuração</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Bitcoin Wiki for SSL setup instructions)</translation>
+        <translation>Opções SSL: (consultar o Bitcoin Wiki para obter instruções de configuração do SSL)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation>Select the version of socks proxy to use (4-5, default: 5)</translation>
+        <translation>Selecionar a versão do socks proxy a utilizar (4-5, padrão: 5)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation>Send trace/debug info to console instead of debug.log file</translation>
+        <translation>Enviar informações de rastreio/depuração à consola em vez do ficheiro debug.log</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation>Send trace/debug info to debugger</translation>
+        <translation>Enviar informações de rastreio/depuração ao depurador</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>Set maximum block size in bytes (default: 250000)</translation>
+        <translation>Definir o tamanho máximo do bloco em bytes (padrão: 250000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>Set minimum block size in bytes (default: 0)</translation>
+        <translation>Definir o tamanho mínimo do bloco em bytes (padrão: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation>Shrink debug.log file on client startup (default: 1 when no -debug)</translation>
+        <translation>Diminuir o ficheiro debug.log ao iniciar o cliente (padrão: 1 quando sem -debug)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation>Specify connection timeout in milliseconds (default: 5000)</translation>
+        <translation>Especificar o tempo limite da ligação em milissegundos (padrão: 5000)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>Use UPnP to map the listening port (default: 0)</translation>
+        <translation>Utilizar UPnP para mapear a porta em escuta (padrão: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>Use UPnP to map the listening port (default: 1 when listening)</translation>
+        <translation>Utilizar UPnP para mapear a porta em escuta (padrão: 1 quando a escutar)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation>Use proxy to reach tor hidden services (default: same as -proxy)</translation>
+        <translation>Utilizar proxy para ligar aos serviços escondidos do tor (padrão: mesmo que -proxy)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Username for JSON-RPC connections</source>
-        <translation>Username for JSON-RPC connections</translation>
+        <translation>Nome de utilizador para ligações JSON-RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Verifying database integrity...</source>
-        <translation type="unfinished"></translation>
+        <translation>A verificar a integridade da base de dados...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Warning: Disk space is low!</source>
-        <translation>Warning: Disk space is low!</translation>
+        <translation>Aviso: O espaço em disco é baixo!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation>Warning: This version is obsolete, upgrade required!</translation>
+        <translation>Aviso: Esta versão encontra-se obsoleta. Deverá proceder à sua atualização.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ficheiro wallet.dat corrumpido</translation>
     </message>
     <message>
         <location line="-43"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Password for JSON-RPC connections</translation>
+        <translation>Palavra-chave para ligações JSON-RPC</translation>
     </message>
     <message>
         <location line="-53"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation>Allow JSON-RPC connections from specified IP address</translation>
+        <translation>Permitir ligações JSON-RPC a partir do endereço IP especificado</translation>
     </message>
     <message>
         <location line="+61"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</translation>
+        <translation>Enviar comandos ao nó a correr em &lt;ip&gt; (padrão: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="-99"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
+        <translation>Executar o comando quando o melhor bloco mudar (%s em cmd é substituído pelo hash do bloco)</translation>
     </message>
     <message>
         <location line="+122"/>
         <source>Upgrade wallet to latest format</source>
-        <translation>Upgrade wallet to latest format</translation>
+        <translation>Atualizar a carteira para o último formato/translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation>Set key pool size to &lt;n&gt; (default: 100)</translation>
+        <translation>Definir o tamanho da key pool para &lt;n&gt; (padrão: 100)</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>Rescan the block chain for missing wallet transactions</translation>
+        <translation>Rever a cadeia de blocos para as transações da carteira em falta</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>How many blocks to check at startup (default: 2500, 0 = all)</source>
-        <translation>How many blocks to check at startup (default: 2500, 0 = all)</translation>
+        <translation>Blocos a verificar na iniciação (padrão: 2500, 0 = all)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation>How thorough the block verification is (0-6, default: 1)</translation>
+        <translation>Quão minuciosa é a verificação do bloco (0-6, padrão: 1)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Imports blocks from external blk000?.dat file</source>
-        <translation>Imports blocks from external blk000?.dat file</translation>
+        <translation>Importar blocos a partir de ficheiro externo blk000?.dat</translation>
     </message>
     <message>
         <location line="+51"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation>Use OpenSSL (https) for JSON-RPC connections</translation>
+        <translation>Utilizar OpenSSL (https) para ligações JSON-RPC</translation>
     </message>
     <message>
         <location line="-21"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Server certificate file (default: server.cert)</translation>
+        <translation>Ficheiro do certificado do servidor (padrão: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation>Server private key (default: server.pem)</translation>
+        <translation>Chave privada do servidor (padrão: server.pem)</translation>
     </message>
     <message>
         <location line="-127"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
+        <translation>Cifras aceitáveis (padrão: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+139"/>
         <source>This help message</source>
-        <translation>This help message</translation>
+        <translation>Esta mensagem de ajuda</translation>
     </message>
     <message>
         <location line="-131"/>
-        <source>Cannot obtain a lock on data directory %s.  VERGE is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s.  VERGE is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. VERGE is probably already running.</source>
+        <translation>Não é possível obter um bloqueio no diretório de dados %s. A VERGE já está provavelmente em execução.</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -2551,157 +2548,157 @@ Endereço: %4
     <message>
         <location line="+77"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation>Unable to bind to %s on this computer (bind returned error %d, %s)</translation>
+        <translation>Não é possível ligar-se a %s neste computador (a vinculação devolveu um erro %d, %s)</translation>
     </message>
     <message>
         <location line="-69"/>
         <source>Connect through socks proxy</source>
-        <translation>Connect through socks proxy</translation>
+        <translation>Ligar através de socks proxy</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation>Allow DNS lookups for -addnode, -seednode and -connect</translation>
+        <translation>Permitir DNS lookups para -addnode, -seednode e -connect</translation>
     </message>
     <message>
         <location line="+44"/>
         <source>Loading addresses...</source>
-        <translation>Loading addresses...</translation>
+        <translation>A carregar endereços...</translation>
     </message>
     <message>
         <location line="-26"/>
         <source>Error loading blkindex.dat</source>
-        <translation>Error loading blkindex.dat</translation>
+        <translation>Erro a carregar blkindex.dat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation>Error loading wallet.dat: Wallet corrupted</translation>
+        <translation>Erro a carregar wallet.dat: Carteira corrumpida</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of VERGE</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of VERGE</translation>
+        <translation>Erro a carregar wallet.dat: A carteira requer uma versão mais recente da VERGE</translation>
     </message>
     <message>
         <location line="+73"/>
         <source>Wallet needed to be rewritten: restart VERGE to complete</source>
-        <translation>Wallet needed to be rewritten: restart VERGE to complete</translation>
+        <translation>A carteira necessita de ser reescrita: reinicie a VERGE para concluir</translation>
     </message>
     <message>
         <location line="-75"/>
         <source>Error loading wallet.dat</source>
-        <translation>Error loading wallet.dat</translation>
+        <translation>Erro a carregar wallet.dat</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation>Invalid -proxy address: &apos;%s&apos;</translation>
+        <translation>Endereço inválido de -proxy: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation>Unknown network specified in -onlynet: &apos;%s&apos;</translation>
+        <translation>Foi especificada uma rede desconhecida em -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation>Unknown -socks proxy version requested: %i</translation>
+        <translation>Foi solicitada uma versão desconhecida do -socks proxy: %i</translation>
     </message>
     <message>
         <location line="-74"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation>Cannot resolve -bind address: &apos;%s&apos;</translation>
+        <translation>Não é possível resolver o endereço -bind: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation>Cannot resolve -externalip address: &apos;%s&apos;</translation>
+        <translation>Não é possível resolver o endereço -externalip: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+30"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
+        <translation>Quantia inválida para -paytxfee=&lt;quantia&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Error: could not start node</source>
-        <translation>Error: could not start node</translation>
+        <translation>Erro: não foi possível iniciar o nó</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Sending...</source>
-        <translation>Sending...</translation>
+        <translation>A enviar...</translation>
     </message>
     <message>
         <location line="-24"/>
         <source>Invalid amount</source>
-        <translation>Invalid amount</translation>
+        <translation>Quantia inválida</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>Insufficient funds</source>
-        <translation>Insufficient funds</translation>
+        <translation>Fundos insuficientes</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Loading block index...</source>
-        <translation>Loading block index...</translation>
+        <translation>A carregar o índice de blocos...</translation>
     </message>
     <message>
         <location line="-46"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Add a node to connect to and attempt to keep the connection open</translation>
+        <translation>Adicione um nó para se ligar e tentar manter a ligação aberta</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. VERGE is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. VERGE is probably already running.</translation>
+        <translation>Não é possível ligar a %s neste computador. Provavelmente VERGE já está em execução.</translation>
     </message>
     <message>
         <location line="+55"/>
         <source>Find peers using internet relay chat (default: 1)</source>
-        <translation>Find peers using internet relay chat (default: 1)</translation>
+        <translation>Encontre outras pessoas no IRC (padrão: 1)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation>Fee per KB to add to transactions you send</translation>
+        <translation>Taxa por KB a adicionar à transferência enviada</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Loading wallet...</source>
-        <translation>Loading wallet...</translation>
+        <translation>A carregar carteira...</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Cannot downgrade wallet</translation>
+        <translation>Não é possível reverter a carteira</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot initialize keypool</source>
-        <translation>Cannot initialize keypool</translation>
+        <translation>Não é possível iniciar a keypool</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot write default address</source>
-        <translation>Cannot write default address</translation>
+        <translation>Não é possível escrever o endereço padrão</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Rescanning...</source>
-        <translation>Rescanning...</translation>
+        <translation>A rastrear...</translation>
     </message>
     <message>
         <location line="-40"/>
         <source>Done loading</source>
-        <translation>Done loading</translation>
+        <translation>Carregamento concluído</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>To use the %s option</source>
-        <translation>To use the %s option</translation>
+        <translation>Para utilizar a %s opção</translation>
     </message>
     <message>
         <location line="-150"/>
@@ -2713,28 +2710,28 @@ rpcpassword=%s
 (you do not need to remember this password)
 If the file does not exist, create it with owner-readable-only file permissions.
 </source>
-        <translation>%s, you must set a rpcpassword in the configuration file:
+        <translation>%s, deverá definir uma palavra-chave RPC no ficheiro de configuração:
  %s
-It is recommended you use the following random password:
+Recomenda-se a utilização da seguinte palavra-chave:
 rpcuser=bitcoinrpc
 rpcpassword=%s
-(you do not need to remember this password)
-If the file does not exist, create it with owner-readable-only file permissions.
+(não é necessário lembrar-se desta palavra-chave)
+Se o ficheiro não existir deverá criá-lo com permissões de: apenas leitura para o proprietário.
 </translation>
     </message>
     <message>
         <location line="+91"/>
         <source>Error</source>
-        <translation>Error</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation>You must set rpcpassword=&lt;password&gt; in the configuration file:
+        <translation>Deverá definir uma palavra-chave RPC=&lt;password&gt; no ficheiro de configuração:
 %s
-If the file does not exist, create it with owner-readable-only file permissions.</translation>
+Se o ficheiro não existir deverá criá-lo com permissões de: apenas leitura para o proprietário.</translation>
     </message>
 </context>
 </TS>
